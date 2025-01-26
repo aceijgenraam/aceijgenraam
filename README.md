@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Immagine 2025-01-27 002833](https://github.com/user-attachments/assets/d21377bd-7a77-454d-a5b6-573469c0ffe0)
 
 This is a test
 
